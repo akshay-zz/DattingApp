@@ -343,3 +343,4 @@ $RECYCLE.BIN/
 / *.db
 
 # End of https://www.gitignore.io/api/angular,windows,aspnetcore,visualstudiocode
+DatingApp.API/DatingApp.db-journal
