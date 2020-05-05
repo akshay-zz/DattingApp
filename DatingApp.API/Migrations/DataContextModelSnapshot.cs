@@ -57,7 +57,7 @@ namespace DatingAPP.API.Migrations
 
                     b.Property<string>("Introduction");
 
-                    b.Property<string>("KonwnAs");
+                    b.Property<string>("KnownAs");
 
                     b.Property<DateTime>("LastActive");
 
